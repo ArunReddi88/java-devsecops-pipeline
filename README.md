@@ -19,7 +19,11 @@ This repository sets up a full production-grade CI/CD pipeline for a Java Spring
 ---
 
 ## 📁 Project Structure
- ava-devsecops-pipeline/ ├── app/ # Spring Boot app + Jenkins pipeline ├── k8s/ # K8s deployment manifests + ArgoCD app ├── terraform/ # EKS, VPC, ECR provision └── README.md # This file
+ java-devsecops-pipeline/ 
+ ├── app/ # Spring Boot app + Jenkins pipeline 
+ ├── k8s/ # K8s deployment manifests + ArgoCD app 
+ ├── terraform/ # EKS, VPC, ECR provision 
+ └── README.md # This file
 ---
 
 ## 🚀 Setup Instructions
