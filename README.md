@@ -1,4 +1,3 @@
-# java-devsecops-pipeline
 # ☁️ Java DevSecOps Pipeline on AWS (CI/CD + GitOps)
 
 This repository sets up a full production-grade CI/CD pipeline for a Java Spring Boot app using modern DevOps & DevSecOps tools on AWS.
